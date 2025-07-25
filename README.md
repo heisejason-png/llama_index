@@ -1,4 +1,4 @@
-# 🗂️ LlamaIndex 🦙
+https://www.threads.net/@jaysonscottheise?invite=0 # 🗂️ LlamaIndex 🦙
 
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/llama-index)](https://pypi.org/project/llama-index/)
 [![GitHub contributors](https://img.shields.io/github/contributors/jerryjliu/llama_index)](https://github.com/jerryjliu/llama_index/graphs/contributors)
